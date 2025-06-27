@@ -1,6 +1,6 @@
 {
   "global": {},
-  "color/Mode 1": {
+  "color": {
     "transparent": {
       "value": "#00000000",
       "type": "color"
@@ -1030,7 +1030,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "color/Mode 1"
+      "color"
     ]
   }
 }
